@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guglika1993
+- 👋 Hi, I’m Giorgi
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning computer science at the university of Bayreuth
 - 💞️ I’m looking to collaborate on ...
